@@ -2,7 +2,7 @@
 
 ```bash
 az login
-git clone git@github.com:Timothy-Pulliam/Azure_CIDR_Overlap.git
+git clone https://github.com/Timothy-Pulliam/Azure_CIDR_Overlap.git
 cd Azure_CIDR_Overlap
 python3 -m venv venv
 . venv/bin/activate
